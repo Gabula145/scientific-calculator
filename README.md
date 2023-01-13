@@ -56,5 +56,5 @@ for all the buttons on the interface.
 You will need to edit this file to addfunctionality
 
 #### Sample image
-![scientific-calculator-9b697 web app_ (2)](https://user-images.githubusercontent.com/58640356/182614765-9f2fb898-81bc-4fe5-8da2-2f5ddf872498.png)
+![scientific-calculator-9b697 web app_ (2)](https://photos.google.com/search/_tra_/photo/AF1QipMvOIvIKbEPzJ7X7d2MuyoxFc9GuuWScRQh6cqI)
 
